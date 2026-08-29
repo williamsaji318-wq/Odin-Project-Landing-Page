@@ -3,13 +3,13 @@ this is a landing page  i made as part of The-Odin-Project course. It is about a
 
 ## Concepts Used:
 
-Basic HTML Structure
-HTML Boilerplate
-CSS Properties
-Semantic HTML
-Flexbox
-Display Tools
-Git & Github
+-Basic HTML Structure
+-HTML Boilerplate
+-CSS Properties
+-Semantic HTML
+-Flexbox
+-Display Tools
+-Git & Github
 
 
 
