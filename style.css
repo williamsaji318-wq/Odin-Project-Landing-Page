@@ -2,3 +2,24 @@ img {
   width: 200px;
   height: 250px;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(245, 234, 170, 0.993);
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  display: flex;
+}
+
+.hero {
+  display: flex;
+}

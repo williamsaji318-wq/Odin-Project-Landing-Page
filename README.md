@@ -1,5 +1,16 @@
 # Project: Landing-page
-this is a landing project i made as part of The-Odin-Project course. It is about a Perfume shop.
+this is a landing page  i made as part of The-Odin-Project course. It is about a Perfume shop's online website. 
+
+## Concepts Used:
+
+Basic HTML Structure
+HTML Boilerplate
+CSS Properties
+Semantic HTML
+Flexbox
+Display Tools
+Git & Github
+
 
 
 ## Image Credits:
